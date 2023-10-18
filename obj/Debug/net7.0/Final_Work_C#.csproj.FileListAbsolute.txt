@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\bin\Debug\net7.0\Final_Work_C#.exe
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\bin\Debug\net7.0\Final_Work_C#.deps.json
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\bin\Debug\net7.0\Final_Work_C#.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\bin\Debug\net7.0\Final_Work_C#.dll
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\bin\Debug\net7.0\Final_Work_C#.pdb
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\obj\Debug\net7.0\Final_Work_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\obj\Debug\net7.0\Final_Work_C#.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\obj\Debug\net7.0\Final_Work_C#.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\obj\Debug\net7.0\Final_Work_C#.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\obj\Debug\net7.0\Final_Work_C#.dll
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\obj\Debug\net7.0\refint\Final_Work_C#.dll
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\obj\Debug\net7.0\Final_Work_C#.pdb
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\obj\Debug\net7.0\Final_Work_C#.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Edu\Final_Work_C#\obj\Debug\net7.0\ref\Final_Work_C#.dll
